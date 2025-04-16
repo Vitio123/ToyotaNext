@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ToyotaNext 🚗
 
-## Getting Started
+Un proyecto de réplica del sitio web de Toyota desarrollado con React, Next.js y Tailwind CSS.
 
-First, run the development server:
+## 🔴 [Ver Demo](https://toyota-next-wxr1.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+![Toyota Next Demo](https://raw.githubusercontent.com/Vitio123/ToyotaNext/main/public/screenshot.png)
+
+## 📋 Descripción
+
+ToyotaNext es una recreación moderna de la plataforma digital de Toyota que permite a los usuarios explorar vehículos, reservar o alquilar modelos, y disfrutar de una experiencia totalmente digital. El proyecto ha sido desarrollado con tecnologías web modernas para garantizar un rendimiento óptimo y una experiencia de usuario fluida.
+
+## 🛠️ Tecnologías Utilizadas
+
+- **React** - Biblioteca JavaScript para construir interfaces de usuario
+- **Next.js** - Framework de React que ofrece renderizado del lado del servidor
+- **Tailwind CSS** - Framework de CSS utility-first para diseño rápido y responsivo
+- **Vercel** - Plataforma para el despliegue y hosting
+
+## ✨ Características
+
+- Diseño responsivo que se adapta a todos los tamaños de pantalla
+- Experiencia de usuario intuitiva y moderna
+- Optimización de rendimiento con Next.js
+- Interfaz basada en el diseño oficial de Toyota
+
+## 🚀 Instalación y Uso
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/Vitio123/ToyotaNext.git
+   ```
+
+2. Navega al directorio del proyecto:
+   ```bash
+   cd ToyotaNext
+   ```
+
+3. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+   
+4. Ejecuta el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
+
+5. Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver la aplicación.
+
+## 🏗️ Estructura del Proyecto
+
+```
+ToyotaNext/
+├── components/         # Componentes reutilizables
+├── pages/              # Páginas de la aplicación
+├── public/             # Archivos estáticos
+├── styles/             # Estilos globales y configuración de Tailwind
+├── .next/              # Directorio de compilación (generado)
+└── ...
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📱 Capturas de Pantalla
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Captura 1](https://raw.githubusercontent.com/Vitio123/ToyotaNext/main/public/screenshot-mobile.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🔗 Enlaces
 
-## Learn More
+- [Demo en vivo](https://toyota-next-wxr1.vercel.app/)
+- [Repositorio GitHub](https://github.com/Vitio123/ToyotaNext)
 
-To learn more about Next.js, take a look at the following resources:
+## 📄 Licencia
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👤 Autor
 
-## Deploy on Vercel
+Desarrollado con ❤️ por [Vitio123](https://github.com/Vitio123)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+⭐️ ¡No olvides dejar una estrella si te gusta este proyecto! ⭐️
