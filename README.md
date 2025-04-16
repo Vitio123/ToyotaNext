@@ -4,7 +4,7 @@ Un proyecto de réplica del sitio web de Toyota desarrollado con React, Next.js 
 
 ## 🔴 [Ver Demo](https://toyota-next-wxr1.vercel.app/)
 
-![Toyota Next Demo](https://raw.githubusercontent.com/Vitio123/ToyotaNext/main/public/screenshot.png)
+![Toyota Next Demo](https://github.com/Vitio123/ToyotaNext/blob/main/screen.png)
 
 ## 📋 Descripción
 
@@ -59,10 +59,6 @@ ToyotaNext/
 ├── .next/              # Directorio de compilación (generado)
 └── ...
 ```
-
-## 📱 Capturas de Pantalla
-
-![Captura 1](https://raw.githubusercontent.com/Vitio123/ToyotaNext/main/public/screenshot-mobile.png)
 
 ## 🔗 Enlaces
 
